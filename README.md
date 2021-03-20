@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sergden
 
-- 🌱 I’m currently learning C#, ASP.NET Core
+- 🌱 I’m currently learning C#, ASP.NET Core, Entiry Framework Core
 
 
 <!---
